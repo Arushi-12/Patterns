@@ -1,2 +1,4 @@
 # Patterns
-This repository contains all the patterns i have practiced
+This repository contains all the patterns I have practiced in Java.
+
+I am learning git.
